@@ -1,0 +1,17 @@
+# Reproducible notebook outputs and local environments.
+.venv*/
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+*_output.ipynb
+*.log
+*.zip
+*.part
+weights/
+boltz_results_*/
+prediction_*/
+job.yaml
+
+# Boltz1 job folders contain a five-character sequence hash.
+*_[0-9a-f][0-9a-f][0-9a-f][0-9a-f][0-9a-f]/
+*_[0-9a-f][0-9a-f][0-9a-f][0-9a-f][0-9a-f]_[0-9]*/
