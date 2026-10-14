@@ -1,3 +1,5 @@
+**Please use [RGI-Toolkit](https://github.com/cddlab/rgi_toolkit) instead of these notebooks.**
+
 # colabfold_boltz_restr
 
 In `Boltz2.ipynb`, run **1a. Install Dependencies** and **1b. Download Model
